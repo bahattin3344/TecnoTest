@@ -1,0 +1,16 @@
+#BAŞLIK
+TECHNO STUDY  WEB TESTING
+
+#AÇIKLAMA
+https://techno.study/tr/ Adlı Web Sitesinin Genel İşleyişi Üzerine Test Aşamalarını Gerçekleştirmek
+
+#GEREKSİNİMLER
+
+WİNDOWS 10 / WİNDOWS 11 / JDK 1.8 /  SELENİUM 4.11.0 / slf4j.nop
+
+# YARDIM
+SÜRÜM HATASI ALMA DURUMUNDA FİLE > PROJECT STRUCTURE > LİB > İSTENİLEN SÜRÜMÜ İNDİREBİLİR DAHA SONRASINDA O SÜRÜME OPTİME EDEBİLİRSİNİZ
+
+#YAZARLAR
+BİLGEHAN ÜNSAL
+BAHİTTİN AYDIN
